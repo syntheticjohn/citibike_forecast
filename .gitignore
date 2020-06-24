@@ -1,0 +1,5 @@
+*.mp4*
+*.pptx
+201912-citibike-tripdata.csv
+citibike_df_raw.pkl
+citibike_df.csv
