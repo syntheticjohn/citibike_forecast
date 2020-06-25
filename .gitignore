@@ -3,3 +3,8 @@
 201912-citibike-tripdata.csv
 citibike_df_raw.pkl
 citibike_df.csv
+.DS_Store
+.ipynb_checkpoints
+__pycache__
+*.pyc
+
