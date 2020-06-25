@@ -4,7 +4,7 @@ Demand forecasting project to forecast the daily demand of Citi Bike usage with 
 
 This repo contains:
 
-- citibike_preprocessing.py: data preprocessing
+- *citibike_preprocessing.py*: data preprocessing
 - citibike_preprocessing.ipynb: data preprocessing
 - citibike_eda.ipynb: exploratory analysis
 - citibike_modeling.ipynb: Facebook Prophet training, WaveNet training and prediction output
