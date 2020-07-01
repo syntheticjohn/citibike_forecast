@@ -1,6 +1,6 @@
 # citibike_forecast
 
-Time series forecasting on the daily demand of Citi Bike with a 365-day horizon for each bike station in NYC
+Time series forecasting on the daily demand of Citi Bike with a 365-day horizon for every bike station in NYC
 
 This repo contains:
 
