@@ -7,8 +7,9 @@ This repo contains:
 - **citibike_preprocessing.py**: data preprocessing
 - **citibike_preprocessing.ipynb**: data preprocessing
 - **citibike_eda.ipynb**: exploratory analysis
-- **citibike_modeling.ipynb**: Facebook Prophet training, WaveNet training and prediction output
-- **forecast_app.ipynb**: forecast visuals for app
+- **citibike_modeling_fbprophet.ipynb**: Facebook Prophet training and evaluation
+- **citibike_modeling_wavenet.ipynb**: WaveNet training and evaluation
+- **citibike_modeling_wavenet_exog.ipynb**: WaveNet (with exogenous features) training and evaluation
 - **app.py**: flask web app
 - **citibike_forecast_slides.pdf**: pdf of project presentation slides
 
