@@ -15,4 +15,4 @@ This repo contains:
 
 The web app is an interactive time series graph with a map feature that allows the user to explore the forecasted daily demand for each Citi Bike station.
 
-Note that I did more feature extraction and another pass at modeling after the presentation to improve my competition score, so not all of my final features are reflected in the presentation.
+Note that additional rounds of feature extraction and modeling were completed after the presentation to improve score, so not all final features are reflected in the presentation.
