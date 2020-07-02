@@ -6,7 +6,6 @@ This script is designed to be run on a remote cloud instance,
 either through a Jupyter notebook or the command line
 """
 
-# Citibike Proprocessing
 import numpy as np
 import pandas as pd
 from datetime import datetime
