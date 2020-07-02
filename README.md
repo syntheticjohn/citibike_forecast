@@ -13,6 +13,6 @@ This repo includes:
 - **app**: web app
 - **citibike_forecast_slides.pdf**: pdf of project presentation slides
 
-The web app is an interactive time series graph with a map feature that allows the user to explore the forecasted daily demand for each Citi Bike station.
+The web app includes an interactive time series graph with a map feature that allows the user to explore the forecasted daily demand for each Citi Bike station.
 
 Note that additional rounds of feature extraction and modeling were completed after the presentation to improve score, so not all final features are reflected in the presentation.
