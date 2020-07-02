@@ -6,7 +6,6 @@ from sklearn.metrics import mean_squared_error
 import dask.dataframe as dd
 from dask.distributed import Client, progress
 
-
 def read_data_dask(months):   
     """
     function to read s3 files into dask dataframe
