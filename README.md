@@ -2,7 +2,7 @@
 
 Time series forecasting on the daily demand of Citi Bike with a 365-day horizon for every bike station in NYC
 
-This repo contains:
+This repo includes:
 
 - **citibike_preprocessing.py**: data preprocessing
 - **citibike_eda.ipynb**: exploratory analysis
