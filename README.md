@@ -5,12 +5,12 @@ Time series forecasting on the daily demand of Citi Bike with a 365-day horizon 
 This repo contains:
 
 - **citibike_preprocessing.py**: data preprocessing
-- **data**: pickled files
 - **citibike_eda.ipynb**: exploratory analysis
 - **citibike_modeling_fbprophet.ipynb**: Facebook Prophet training and evaluation
 - **citibike_modeling_wavenet.ipynb**: WaveNet training and evaluation
 - **citibike_modeling_wavenet_exog.ipynb**: WaveNet (with exogenous features) training and evaluation
-- **app.py**: flask web app
+- **data**: pickled files
+- **app**: web app
 - **citibike_forecast_slides.pdf**: pdf of project presentation slides
 
 The web app is an interactive time series graph with a map feature that allows the user to explore the forecasted daily demand for each Citi Bike station.
