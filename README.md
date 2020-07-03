@@ -1,4 +1,4 @@
-# citibike_forecast
+# Forecasting Citi Bike Demand
 
 Time series forecasting on the daily demand of Citi Bike with a 365-day horizon for every bike station in NYC
 
