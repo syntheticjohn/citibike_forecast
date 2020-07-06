@@ -2,7 +2,13 @@
 
 Time series forecasting on the daily demand of Citi Bike with a 365-day horizon for every bike station in NYC
 
-This repo includes:
+**Project overview:**
+- Forecasted Citi Bike daily demand with a 365-day horizon for each bike station in NYC using an additive regression model (Facebook Prophet) and a convolutional neural network (WaveNet)
+- Preprocessed ~80 million ride data hosted on AWS S3 using Dask on GCP and trained the neural net on a GPU through Google Colab
+- Prophet and WaveNet evaluated at an average MAE of 31.7 and 38.2 on the test set, respectively
+- Developed and deployed an interactive Flask web app with forecasts and map navigation
+
+**This repo includes:**
 
 - **citibike_preprocessing.py**: data preprocessing
 - **citibike_eda.ipynb**: exploratory analysis
